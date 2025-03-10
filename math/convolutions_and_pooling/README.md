@@ -1,1 +1,1 @@
-"convolutions_and_pooling"
+# This is the file that contains the description of the project.
